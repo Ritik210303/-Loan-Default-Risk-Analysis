@@ -31,5 +31,5 @@ This project focuses on **Exploratory Data Analysis (EDA)** of loan application 
 
 ## 🚀 How to Run the Project  
 - The code is written in the jupyter notebook 
-- So just download code file(loan_default_analysis.ipynb) and datasets
+- So just download code file(loan_default_analysis.ipynb) and datasets (application_data and previous_application)
 - Then execute the notebook file
